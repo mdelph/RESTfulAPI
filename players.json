@@ -1,0 +1,20 @@
+{
+   "player1" : {
+      "name" : "Tom Brady",
+	  "team" : "Patriots",
+	  "position" : "Quarterback",
+	  "id": 1
+   },
+   "player2" : {
+      "name" : "Richard Sherman",
+	  "team" : "Seahawks",
+	  "position" : "Cornerback",
+	  "id": 2
+   },
+  "player3" : {
+      "name" : "Reggie Bush",
+	  "team" : "Free Agent",
+	  "position" : "Runningback",
+	  "id": 3
+   }
+}

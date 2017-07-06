@@ -1,0 +1,16 @@
+{
+  "name": "my-restul",
+  "version": "1.0.0",
+  "description": "builds restful API",
+  "main": "Server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "devDependencies": {},
+  "author": "Matt Delphine",
+  "license": "ISC"
+}
